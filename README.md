@@ -16,6 +16,7 @@ Pages of website are:
 
 1.	Suzuki
 2.	Toyota
+
 Under Suzuki and Toyota there will be a table which show cars and then there specifications and a form which will be filled by the buyer to place his order
 Only admin can add and delete cars from the website
 
