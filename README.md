@@ -1,5 +1,4 @@
-open-source
-===========
+
 
 Cars Club
 
@@ -12,12 +11,13 @@ Pages of website are:
 
 •	About us: give some information about the website
 
-•	Buy Cars: we are selling cars of 2 companies cars are shown
+•	Buy Cars: we are selling cars of 2 companies:
 
 1.	Suzuki
 2.	Toyota
 
 Under Suzuki and Toyota there will be a table which show cars and then there specifications and a form which will be filled by the buyer to place his order
+
 Only admin can add and delete cars from the website
 
 •	Services: give some tip about servicing your car
